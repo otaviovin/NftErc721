@@ -29,7 +29,7 @@ To get started, clone the repository and open the `SimpleNFT.sol` file in Remix 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/NftErc721.git
+    git clone https://github.com/otaviovin/NftErc721.git
     cd realstate-contract
     ```
 
